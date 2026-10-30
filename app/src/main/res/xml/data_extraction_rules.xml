@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction_rules>
+    <rules>
+        <exclude
+            sharedPrefBackup="false"
+            cacheBackup="false"
+            databaseBackup="false" />
+    </rules>
+</data-extraction_rules>
