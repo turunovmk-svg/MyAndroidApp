@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<backup_rules>
+    <exclude
+        fullBackupContent="@string/backup_rules"
+        sharedPrefBackup="false" />
+</backup_rules>
