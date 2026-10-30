@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.AndroidApp" parent="Theme.Material3.DayNight">
+        <item name="android:statusBarColor">@color/purple_7000</item>
+        <item name="android:navigationBarColor">@color/purple_7000</item>
+    </style>
+
+</resources>
